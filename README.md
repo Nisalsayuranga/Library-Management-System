@@ -3,7 +3,6 @@
 A modern, full-featured Library Management System built with Python, CustomTkinter (for a sleek UI), and MySQL (XAMPP). This project allows library administrators to smoothly manage books, members, borrowing records, automated email notifications, and late return fines.
 
 ## 📸 Screenshots
-*(Note: Create a folder named `screenshots` and rename your captured images as shown below to display them here)*
 
 | Dashboard | Manage Books | Manage Members |
 |:---:|:---:|:---:|
